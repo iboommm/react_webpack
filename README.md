@@ -10,10 +10,6 @@ npm install   or  yarn install          ==> to install node_modules in the packa
 ```
 
 ```
-if error happened you just try to  npm init  or  yarn init   in your command
-```
-
-```
 npm run dev                 ==> to run to develop your code with webpack-dev-server router in your
 ```
 ```
