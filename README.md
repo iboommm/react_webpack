@@ -1,4 +1,4 @@
-# react_webpack
+# REACT (ES6) + WEBPACK 3
 This is react project basic structure that I learn from more website and I understand this config very easy.
 ## Project start react with webpack
 * React
