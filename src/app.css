@@ -1,0 +1,8 @@
+body {
+    background-image: url('./assets/img/test.png');
+    background-repeat: no-repeat;
+}
+
+p{
+    color: red;
+}
